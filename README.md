@@ -11,5 +11,7 @@
 **7. Перезапустите Samba**, чтобы изменения вступили в силу.   
 
 
+Настройка Samba-сервера. Linux Библия, Кристофер Негус, стр. 530-556.
+
 [Как расшарить папку Linux без пароля](https://ru.d-ws.biz/articles/linux-share-files-samba.shtml)  
 [How to easily share files and folders on a Linux Mint network](https://www.fosslinux.com/103443/how-to-easily-share-files-and-folders-on-a-linux-mint-network.htm)
