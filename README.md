@@ -11,6 +11,8 @@
 **7. Перезапустите Samba**, чтобы изменения вступили в силу.   
 
 
+### [:diamond_shape_with_a_dot_inside:](#toc) <a name='recommended_sources'>Дополнительные источники</a>
+
 Настройка Samba-сервера. Linux Библия, Кристофер Негус, стр. 530-556.
 
 [Как расшарить папку Linux без пароля](https://ru.d-ws.biz/articles/linux-share-files-samba.shtml)  
